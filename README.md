@@ -2,7 +2,7 @@
 
 Github URL: https://github.com/RxKachi/image-filter-starter-code
 
-ELB URL: [image-filter-starter-code.us-east-1.elasticbeanstalk.com](http://image-filter-starter-code.us-east-1.elasticbeanstalk.com) 
+EB URL: [image-filter-starter-code.us-east-1.elasticbeanstalk.com](http://image-filter-starter-code.us-east-1.elasticbeanstalk.com) 
 
 Image Processing Url: http://image-filter-starter-code.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg
 
